@@ -4,7 +4,7 @@
 gdalinfo
 ================================================================================
 
-.. only:: html
+.. only:: 0_of_S2A_MSIL1C_20230727T092031_N0509_R093_T34SEH_20230727T130008_resampled.tif
 
     Lists information about a raster dataset.
 
